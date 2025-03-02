@@ -5,6 +5,7 @@
 #ifndef EXAMPLES_VARIABLES_H
 #define EXAMPLES_VARIABLES_H
 
+void examples_variables_00(void);
 void examples_variables_01(void);
 void examples_variables_02(void);
 void examples_variables_03(void);

@@ -11,6 +11,13 @@
 
 #include "utility.h"
 
+void examples_variables_00() {
+    std::cout << "examples_variables_00" << std::endl;
+    std::cout << "This code does not compile if the comments below are removed" << std::endl;
+    //if (false)
+    //    int variable = "Hello " + 3;
+}
+
 
 // function to study size of types in memory
 void examples_variables_01() {
